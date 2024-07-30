@@ -14,4 +14,4 @@
 :white_check_mark:  Merge Sort<br><br>
 :white_check_mark:  Heap Sort<br><br>
 
-<a href="https://sortingtechniquesvisualization.netlify.app/">Click Here for Visualization</>
+<a href="https://sortingtechniquesvisualization.netlify.app/">Click Here for Visualization</a>
