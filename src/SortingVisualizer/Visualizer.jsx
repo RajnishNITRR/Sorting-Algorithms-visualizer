@@ -7,3 +7,8 @@ import { bubbleSort } from "../algorithms/bubblesort";
 const generateRandomNumber = (i, j) => {
 	return Math.floor(i + Math.random() * (j - i));
 };
+
+const Visualizer =()=>{
+
+};
+export default Visualizer;

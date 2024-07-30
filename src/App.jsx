@@ -1,6 +1,6 @@
 
 import './App.css'
-import Visualizer from './SortingVisualizer/Visualizer'
+import {Visualizer} from './SortingVisualizer/Visualizer'
 
 function App() {
   const [count, setCount] = useState(0)
